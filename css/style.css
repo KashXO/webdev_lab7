@@ -1,0 +1,120 @@
+.mulish-head {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body {
+	background-color: #000000;
+}
+
+
+#heading {
+	font-family: "Mulish", sans-serif;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 10px;
+	font-weight: 900;
+}
+
+
+#info {
+	font-family: "Mulish", sans-serif;
+	font-style: italic;
+	font-weight: 400;
+	color: #99A1AF;
+	text-align: center;
+	padding-bottom: 50px;
+	
+}
+
+#textfact{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+#textplanet{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+
+
+.text {
+	font-family: "IBM Plex Sans", sans-serif;
+	text-align: center;
+	vertical-align: middle;
+	font-style: italic;
+	
+
+}
+
+#images {
+	border: none;
+}
+
+#mars {
+	font-weight: bold;
+	word-spacing: 5px;
+	color: #00E5FF;
+	vertical-align: middle;
+}
+
+#jupiter {
+	font-weight: bold;
+	word-spacing: 5px;
+	color: #00E5FF;
+	vertical-align: middle;
+}
+
+#saturn {
+	font-weight: bold;
+	word-spacing: 5px;
+	color: #00E5FF;
+	vertical-align: middle;
+}
+
+#earth {
+	font-weight: bold;
+	word-spacing: 5px;
+	color: #00E5FF;
+	vertical-align: middle;
+}
+
+#facts {
+	font-family: "IBM Plex Sans", sans-serif;
+	
+}
+
+th {
+	font-family: "Mulish", sans-serif;
+	color: #FFFFFF;
+	padding: 20px;
+	font-weight: bold;
+	background-color: #1E1E2F;
+	border-radius: 4px;
+	box-shadow: 0 6px 5px rgba(0, 229, 255, 0.15);
+}
+td {
+	color: #FFFFFF;
+	border: 1px groove #1E2939;
+	padding: 20px;
+}
+
+#facts {
+	background-color: #0A0E12;
+}
+
+#planets {
+	text-align: center;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#sup {
+	position: relative;
+	top: -5px;
+	font-size: 0.7em;
+}
